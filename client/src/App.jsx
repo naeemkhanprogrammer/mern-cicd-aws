@@ -10,9 +10,9 @@ function App() {
      <p>React JS Application
       
      </p>
-     <P>
+     <p>
       First deployment test
-     </P>
+     </p>
     </>
   )
 }
