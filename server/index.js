@@ -11,7 +11,7 @@ app.use(express.json());
 
 // ✅ Test Route
 app.get('/', (req, res) => {
-  res.json({ message: 'Hello from Express + Prisma' });
+  res.json({ message: 'Hello from Express + Prisma + Test 1' });
 });
 
 // ✅ Create user
